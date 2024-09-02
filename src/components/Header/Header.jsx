@@ -43,8 +43,7 @@ export default function Header() {
                                     Home
                                 </NavLink>
                             </li>
-                            
-                            
+                                                        
                         </ul>
                     </div>
                 </div>
